@@ -29,8 +29,8 @@ function NavBar() {
             
         <Routes>
             <Route path="/" element={<Home />}></Route>        
-                    <Route path="/term" element={<Term />}></Route>
-                    <Route path="/term/tulip" element={<Tulip />}></Route>
+            <Route path="/term" element={<Term />}></Route>
+            <Route path="/term/tulip" element={<Tulip />}></Route>
         </Routes></>
             
         </BrowserRouter>
