@@ -1,14 +1,4 @@
 import React from "react";
-// import Container from 'react-bootstrap/Container';
-// import Nav from 'react-bootstrap/Nav';
-// import Navbar from 'react-bootstrap/Navbar';
-import {
-    Route,
-    Routes,
-} from "react-router-dom";
-// import Term from './pages/term/Term';
-// import Home from './pages/Home';
-import Tulip from './tulip/Tulip';
 import './Term.css';
 
 function Term() {
@@ -16,9 +6,7 @@ function Term() {
 
     return (
 
-        <><Routes>
-            <Route path="/term/tulip" element={<Tulip />}></Route>
-        </Routes>
+
         
         <div>
                 <header className="headline">
@@ -40,7 +28,7 @@ function Term() {
                     </ul>
 
                 </div>
-            </div></>
+            </div>
 
     )
 }
