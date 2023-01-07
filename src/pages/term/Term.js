@@ -60,7 +60,7 @@ function Term() {
                     </ul>
 
                 </div>
-            </div></>
+            </div>
 
     )
 }
