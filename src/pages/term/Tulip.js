@@ -1,4 +1,4 @@
-import React, {Component} from "react";
+import React from "react";
 import './Tulip.css';
 import tulipLogo from './images/tulip-retail-logo.png';
 import video from './images/tulip_clienteling.mp4';
