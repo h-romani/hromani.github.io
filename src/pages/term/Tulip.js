@@ -7,10 +7,10 @@ import versaceLogo from './images/versace.png';
 import teamPhoto from './images/product_team.png';
 
 
-class Tulip extends Component {
+function Tulip() {
 
 
-    render(){
+
     return (
         <div>
             <header className="headline">
@@ -134,6 +134,6 @@ class Tulip extends Component {
 
     )
 }
-}
+
 
 export default Tulip;
