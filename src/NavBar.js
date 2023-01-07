@@ -7,9 +7,9 @@ import {
     Routes,
     BrowserRouter
 } from "react-router-dom";
-import Term from './pages/term/tulip/Term';
+import Term from './pages/term/Term';
 import Home from './pages/Home';
-import Tulip from './pages/term/Tulip';
+import Tulip from './pages/term/tulip/Tulip';
 
 function NavBar() {
     return (
