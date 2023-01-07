@@ -1,10 +1,10 @@
 import React from "react";
 import './Tulip.css';
-import tulipLogo from './images/tulip-retail-logo.png';
-import video from './images/tulip_clienteling.mp4';
-import dgLogo from './images/dg.png';
-import versaceLogo from './images/versace.png';
-import teamPhoto from './images/product_team.png';
+import tulipLogo from '../images/tulip-retail-logo.png';
+import video from '../images/tulip_clienteling.mp4';
+import dgLogo from '../images/dg.png';
+import versaceLogo from '../images/versace.png';
+import teamPhoto from '../images/product_team.png';
 
 
 function Tulip() {
