@@ -7,7 +7,7 @@ import {
     Routes,
     BrowserRouter
 } from "react-router-dom";
-import Term from './pages/term/Term';
+import Term from './pages/term/tulip/Term';
 import Home from './pages/Home';
 import Tulip from './pages/term/Tulip';
 

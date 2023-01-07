@@ -8,7 +8,7 @@ import {
 } from "react-router-dom";
 // import Term from './pages/term/Term';
 // import Home from './pages/Home';
-import Tulip from './Tulip';
+import Tulip from '../Tulip';
 import './Term.css';
 
 function Term() {

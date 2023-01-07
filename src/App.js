@@ -1,7 +1,7 @@
 
 import './App.css';
 import Home from './pages/Home';
-import Term from './pages/term/Term';
+import Term from './pages/term/tulip/Term';
 import Tulip from './pages/term/Tulip';
 
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
