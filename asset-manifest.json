@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hromani.github.io/static/css/main.f3a476ae.css",
-    "main.js": "/hromani.github.io/static/js/main.9c9f30dd.js",
+    "main.js": "/hromani.github.io/static/js/main.ef8729b2.js",
     "static/js/787.a3bfe649.chunk.js": "/hromani.github.io/static/js/787.a3bfe649.chunk.js",
     "static/media/tulip_clienteling.mp4": "/hromani.github.io/static/media/tulip_clienteling.f851f16080d51e027888.mp4",
     "static/media/product_team.png": "/hromani.github.io/static/media/product_team.e680bbb64c3a683f706f.png",
@@ -11,11 +11,11 @@
     "static/media/dg.png": "/hromani.github.io/static/media/dg.b7eecb9015752f835b92.png",
     "index.html": "/hromani.github.io/index.html",
     "main.f3a476ae.css.map": "/hromani.github.io/static/css/main.f3a476ae.css.map",
-    "main.9c9f30dd.js.map": "/hromani.github.io/static/js/main.9c9f30dd.js.map",
+    "main.ef8729b2.js.map": "/hromani.github.io/static/js/main.ef8729b2.js.map",
     "787.a3bfe649.chunk.js.map": "/hromani.github.io/static/js/787.a3bfe649.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3a476ae.css",
-    "static/js/main.9c9f30dd.js"
+    "static/js/main.ef8729b2.js"
   ]
 }
